@@ -1,4 +1,4 @@
-package edu.example.compratodosqs;
+package edu.example.clientessqs;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

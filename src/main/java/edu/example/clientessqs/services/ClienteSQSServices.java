@@ -1,8 +1,8 @@
-package edu.example.compratodosqs.services;
+package edu.example.clientessqs.services;
 
 import com.google.gson.Gson;
-import edu.example.compratodosqs.model.Clientes;
-import edu.example.compratodosqs.model.SqsClienteResponse;
+import edu.example.clientessqs.model.Clientes;
+import edu.example.clientessqs.model.SqsClienteResponse;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;

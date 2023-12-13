@@ -1,4 +1,4 @@
-package edu.example.compratodosqs.model;
+package edu.example.clientessqs.model;
 
 import lombok.Builder;
 import lombok.Data;

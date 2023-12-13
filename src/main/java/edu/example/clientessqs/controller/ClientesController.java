@@ -1,8 +1,8 @@
-package edu.example.compratodosqs.controller;
+package edu.example.clientessqs.controller;
 
-import edu.example.compratodosqs.model.Clientes;
-import edu.example.compratodosqs.model.SqsClienteResponse;
-import edu.example.compratodosqs.services.ClienteSQSServices;
+import edu.example.clientessqs.model.Clientes;
+import edu.example.clientessqs.model.SqsClienteResponse;
+import edu.example.clientessqs.services.ClienteSQSServices;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

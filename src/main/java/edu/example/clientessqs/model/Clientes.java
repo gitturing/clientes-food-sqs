@@ -1,4 +1,4 @@
-package edu.example.compratodosqs.model;
+package edu.example.clientessqs.model;
 
 public record Clientes(
          String nombre,
